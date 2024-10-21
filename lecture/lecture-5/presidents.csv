@@ -1,0 +1,46 @@
+President,Order,Birth Year,Entering Year,Exiting Year
+George Washington,1,1732,1789,1797
+John Adams,2,1735,1797,1801
+Thomas Jefferson,3,1743,1801,1809
+James Madison,4,1751,1809,1817
+James Monroe,5,1758,1817,1825
+Andrew Jackson,7,1767,1829,1837
+John Quincy Adams,6,1767,1825,1829
+William Henry Harrison,9,1773,1841,1841
+Martin Van Buren,8,1782,1837,1841
+Zachary Taylor,12,1784,1849,1850
+John Tyler,10,1790,1841,1845
+James Buchanan,15,1791,1857,1861
+James K. Polk,11,1795,1845,1849
+Millard Fillmore,13,1800,1850,1853
+Franklin Pierce,14,1804,1853,1857
+Andrew Johnson,17,1808,1865,1869
+Abraham Lincoln,16,1809,1861,1865
+Ulysses S. Grant,18,1822,1869,1877
+Rutherford B. Hayes,19,1822,1877,1881
+Chester A. Arthur,21,1829,1881,1885
+James A. Garfield,20,1831,1881,1881
+Benjamin Harrison,23,1833,1889,1893
+Grover Cleveland,22,1837,1885,1889
+Grover Cleveland,24,1837,1893,1897
+William McKinley,25,1843,1897,1901
+Woodrow Wilson,28,1856,1913,1921
+William H. Taft,27,1857,1909,1913
+Theodore Roosevelt,26,1858,1901,1909
+Warren G. Harding,29,1865,1921,1923
+Calvin Coolidge,30,1872,1923,1929
+Herbert Hoover,31,1874,1929,1933
+Franklin D. Roosevelt,32,1882,1933,1945
+Harry S. Truman,33,1884,1945,1953
+Dwight D. Eisenhower,34,1890,1953,1961
+Lyndon B. Johnson,36,1908,1963,1969
+Ronald Reagan,40,1911,1981,1989
+Richard Nixon,37,1913,1969,1974
+Gerald Ford,38,1913,1974,1977
+John F. Kennedy,35,1917,1961,1963
+George H. W. Bush,41,1924,1989,1993
+Jimmy Carter,39,1924,1977,1981
+Donald Trump,45,1946,2017,2020
+George W. Bush,43,1946,2001,2009
+Bill Clinton,42,1946,1993,2001
+Barack H. Obama,44,1961,2009,2017
